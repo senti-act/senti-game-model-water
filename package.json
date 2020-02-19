@@ -1,0 +1,19 @@
+{
+  "name": "senti-game-model-water",
+  "version": "0.0.1",
+  "description": "Senti.Act game model for water meters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senti-iot/senti-game-model-water.git"
+  },
+  "author": "Senti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senti-iot/senti-game-model-water/issues"
+  },
+  "homepage": "https://github.com/senti-iot/senti-game-model-water#readme"
+}
